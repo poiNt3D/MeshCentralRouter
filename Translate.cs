@@ -124,7 +124,7 @@ namespace MeshCentralRouter
                 {"da","Indkommende byte"},
                 {"ko","들어오는 바이트"},
                 {"it","Byte in entrata"},
-                {"ru","Входящие байты"}
+                {"ru","Входящих байт"}
             }
         },
         {
@@ -526,7 +526,7 @@ namespace MeshCentralRouter
                 {"da","Tilføj Relay kort"},
                 {"ko","릴레이 맵 추가 ..."},
                 {"it","Aggiungi mappa di rilancio..."},
-                {"ru","Добавить карту реле ..."}
+                {"ru","Пробросить порт через ретрянслятор ..."}
             }
         },
         {
@@ -672,7 +672,7 @@ namespace MeshCentralRouter
                 {"da","Tilføj &Map..."},
                 {"ko","지도 추가 ..."},
                 {"it","Aggiungi &mappa..."},
-                {"ru","Добавить & карту ..."}
+                {"ru","Добавить проброс порта ..."}
             }
         },
         {
@@ -729,7 +729,7 @@ namespace MeshCentralRouter
                 {"da","Port Mapping hjælp"},
                 {"ko","포트 매핑 도움말"},
                 {"it","Aiuto per la mappatura delle porte"},
-                {"ru","Справка по отображению портов"}
+                {"ru","Помощь по пробросу портов"}
             }
         },
         {
@@ -752,7 +752,7 @@ namespace MeshCentralRouter
                 {"da","Vis &Offline enheder"},
                 {"ko","오프라인 장치 표시 (& O)"},
                 {"it","Mostra dispositivi offline"},
-                {"ru","Показать и автономные устройства"}
+                {"ru","Показать автономные устройства"}
             }
         },
         {
@@ -895,7 +895,7 @@ namespace MeshCentralRouter
                 {"pt-br","Instalação do MeshCentral Router"},
                 {"ko","MeshCentral 라우터 설치"},
                 {"it","Installazione del router MeshCentral"},
-                {"ru","Установка MeshCentral Router"}
+                {"ru","Инициализация MeshCentral Router"}
             }
         },
         {
@@ -964,7 +964,7 @@ namespace MeshCentralRouter
                 {"da","Sti"},
                 {"ko","통로"},
                 {"it","Percorso"},
-                {"ru","Дорожка"}
+                {"ru","Путь к файлу"}
             }
         },
         {
@@ -1034,7 +1034,7 @@ namespace MeshCentralRouter
                 {"da","Relay enhed"},
                 {"ko","릴레이 장치"},
                 {"it","Dispositivo ripetitore"},
-                {"ru","Релейное устройство"}
+                {"ru","Устройство-ретранслятор"}
             }
         },
         {
@@ -1080,7 +1080,7 @@ namespace MeshCentralRouter
                 {"da","Kan ikke binde til lokal port"},
                 {"ko","로컬 포트에 바인딩 할 수 없습니다."},
                 {"it","Impossibile eseguire il binding alla porta locale"},
-                {"ru","Невозможно подключиться к локальному порту"}
+                {"ru","Невозможно назначить локальный порт"}
             }
         },
         {
@@ -1103,7 +1103,7 @@ namespace MeshCentralRouter
                 {"da","Omdøb fil"},
                 {"ko","파일명 변경"},
                 {"it","Rinomina il file"},
-                {"ru","Переименуйте файл"}
+                {"ru","Переименовать файл"}
             }
         },
         {
@@ -1149,7 +1149,7 @@ namespace MeshCentralRouter
                 {"da","Overskriv {0} filer?"},
                 {"ko","{0} 파일을 덮어쓰시겠습니까?"},
                 {"it","Sovrascrivere {0} file?"},
-                {"ru","Перезаписать {0} файлы?"}
+                {"ru","Перезаписать {0} файлов?"}
             }
         },
         {
@@ -1371,7 +1371,7 @@ namespace MeshCentralRouter
                 {"da","Venter på, at brugeren giver adgang..."},
                 {"ko","사용자가 액세스 권한을 부여하기를 기다리는 중 ..."},
                 {"it","In attesa che l'utente conceda l'accesso... "},
-                {"ru","Ожидание предоставления доступа пользователем ..."}
+                {"ru","Ожидание подтверждения от пользователя ..."}
             }
         },
         {
@@ -1389,7 +1389,7 @@ namespace MeshCentralRouter
                 {"pt","Roteador MeshCentral"},
                 {"ko"," MeshCentral 라우터"},
                 {"it","MeshCentral Router"},
-                {"ru","MeshCentral Маршрутизатор"}
+                {"ru","Маршрутизатор MeshCentral"}
             }
         },
         {
@@ -1481,7 +1481,7 @@ namespace MeshCentralRouter
                 {"sv","Relämappning"},
                 {"ko","릴레이 매핑"},
                 {"it","Mappatura ritrasmissione"},
-                {"ru","Отображение реле"}
+                {"ru","Добавить проброс порта через ретранслятор"}
             }
         },
         {
@@ -1762,7 +1762,7 @@ namespace MeshCentralRouter
                 {"da","Tilføj kort..."},
                 {"ko","지도 추가 ..."},
                 {"it","Aggiungi mappa..."},
-                {"ru","Добавить карту ..."}
+                {"ru","Добавить проброс порта ..."}
             }
         },
         {
@@ -1785,7 +1785,7 @@ namespace MeshCentralRouter
                 {"da","Udgående bytes"},
                 {"ko","나가는 바이트"},
                 {"it","Byte in uscita"},
-                {"ru","Исходящие байты"}
+                {"ru","Исходящих байт"}
             }
         },
         {
@@ -1981,7 +1981,7 @@ namespace MeshCentralRouter
                 {"pt","& Info ..."},
                 {"pt-br","&Info ..."},
                 {"ko","정보 ..."},
-                {"ru","&Инфо..."}
+                {"ru","&Информация..."}
             }
         },
         {
@@ -2048,7 +2048,7 @@ namespace MeshCentralRouter
                 {"da","Åben..."},
                 {"ko","열다..."},
                 {"it","Aperto..."},
-                {"ru","Открытым..."}
+                {"ru","Открыть..."}
             }
         },
         {
@@ -2209,7 +2209,7 @@ namespace MeshCentralRouter
                 {"da","Husk dette certifikat"},
                 {"ko","이 인증서 기억"},
                 {"it","Ricorda questo certificato"},
-                {"ru","Запомни этот сертификат"}
+                {"ru","Запомните этот сертификат"}
             }
         },
         {
@@ -2337,7 +2337,7 @@ namespace MeshCentralRouter
                 {"da","Ingen portmapninger\n\nKlik på \"Tilføj\" for at komme i gang."},
                 {"ko","포트 매핑 없음\r\n\r\n시작하려면 \"추가\"를 클릭하십시오."},
                 {"it","Nessuna mappatura delle porte.\r\n\r\nFai clic su \"Aggiungi\" per iniziare."},
-                {"ru","Нет сопоставления портов\r\n\r\nНажмите «Добавить», чтобы начать."}
+                {"ru","Нет проброса портов\r\n\r\nНажмите «Добавить», чтобы начать."}
             }
         },
         {
@@ -2539,7 +2539,7 @@ namespace MeshCentralRouter
                 {"da","Hent udklipsholderen fra fjernenheden"},
                 {"ko","원격 장치에서 클립 보드 가져 오기"},
                 {"it","Estrai gli appunti dal dispositivo remoto"},
-                {"ru","Извлечь буфер обмена с удаленного устройства"}
+                {"ru","Перенести буфер обмена с удаленного устройства"}
             }
         },
         {
@@ -2585,7 +2585,7 @@ namespace MeshCentralRouter
                 {"da","Tilføj &Relay Map..."},
                 {"ko","릴레이 맵 추가 ..."},
                 {"it","Aggiungi &mappa di inoltro..."},
-                {"ru","Добавить & карту реле ..."}
+                {"ru","Добавить проброс порта через ретранслятор ..."}
             }
         },
         {
@@ -2790,7 +2790,7 @@ namespace MeshCentralRouter
                 {"da","Indtast den anden faktor godkendelsestoken."},
                 {"ko","두 번째 요소 인증 토큰을 입력하십시오."},
                 {"it","Immettere il token di autenticazione del secondo fattore."},
-                {"ru","Введите токен аутентификации второго фактора."}
+                {"ru","Введите двухфакторный токен аутентификации."}
             }
         },
         {
@@ -2922,7 +2922,7 @@ namespace MeshCentralRouter
                 {"sv","Paus"},
                 {"ko","타임 아웃"},
                 {"it","Tempo scaduto"},
-                {"ru","Тайм-аут"}
+                {"ru","Превышено время ожидания"}
             }
         },
         {
@@ -2993,7 +2993,7 @@ namespace MeshCentralRouter
                 {"sv","& Spara kartor ..."},
                 {"ko","매핑 저장 ..."},
                 {"it","&Salva mappature..."},
-                {"ru","&Сохранить сопоставления..."}
+                {"ru","&Сохранить пробросы портов..."}
             }
         },
         {
@@ -3068,7 +3068,7 @@ namespace MeshCentralRouter
                 {"da","Vis &Group navne"},
                 {"ko","그룹 이름 표시"},
                 {"it","Mostra i nomi dei gruppi"},
-                {"ru","Показать и названия групп"}
+                {"ru","Показать названия групп"}
             }
         },
         {
@@ -3136,7 +3136,7 @@ namespace MeshCentralRouter
                 {"pt-br","Atualizar"},
                 {"sv","R & efresh"},
                 {"ko","새롭게 하다"},
-                {"ru","R & efresh"}
+                {"ru","Обновить"}
             }
         },
         {
@@ -3250,7 +3250,7 @@ namespace MeshCentralRouter
                 {"sv","Portmappning"},
                 {"ko","포트 매핑"},
                 {"it","Mappatura delle porte"},
-                {"ru","Отображение портов"}
+                {"ru","Проброс портов"}
             }
         },
         {
@@ -3303,7 +3303,7 @@ namespace MeshCentralRouter
                 {"da","Næsten klar"},
                 {"ko","거의 완료"},
                 {"it","Quasi fatto"},
-                {"ru","Почти сделано"}
+                {"ru","Почти готово"}
             }
         },
         {
@@ -3783,7 +3783,7 @@ namespace MeshCentralRouter
                 {"da","Afbryd"},
                 {"ko","연결 해제"},
                 {"it","Disconnetti"},
-                {"ru","Разъединить"}
+                {"ru","Отключиться"}
             }
         },
         {
@@ -4083,7 +4083,7 @@ namespace MeshCentralRouter
                 {"da","Spørg om samtykke"},
                 {"ko","연결 요청"},
                 {"it","Chiedi il consenso"},
-                {"ru","Спросите согласия"}
+                {"ru","Спрашивать согласие"}
             }
         },
         {
@@ -4106,7 +4106,7 @@ namespace MeshCentralRouter
                 {"da","Fjernskrivebord..."},
                 {"ko","원격 데스크탑..."},
                 {"it","Desktop remoto..."},
-                {"ru","Удаленного рабочего стола..."}
+                {"ru","Удаленный рабочий стол..."}
             }
         },
         {
@@ -4242,7 +4242,7 @@ namespace MeshCentralRouter
                 {"da","Fjernskrivebord"},
                 {"ko","원격 데스크탑"},
                 {"it","Desktop remoto"},
-                {"ru","Удаленного рабочего стола"}
+                {"ru","Удаленный рабочий стол"}
             }
         },
         {
@@ -4374,7 +4374,7 @@ namespace MeshCentralRouter
                 {"sv","Stannade."},
                 {"da","Stoppet."},
                 {"ko","중지되었습니다."},
-                {"ru","Остановился."}
+                {"ru","Остановлен."}
             }
         },
         {
@@ -4464,7 +4464,7 @@ namespace MeshCentralRouter
                 {"da","Kortlægninger"},
                 {"ko","매핑"},
                 {"it","Mappature"},
-                {"ru","Сопоставления"}
+                {"ru","Пробросы портов"}
             }
         },
         {
@@ -4487,7 +4487,7 @@ namespace MeshCentralRouter
                 {"da","Spørg ikke i {0} dage."},
                 {"ko","{0} 일을 요구하지 마세요."},
                 {"it","Non chiedere per  {0} giorni."},
-                {"ru","Не просите {0} дней."}
+                {"ru","Не спрашивать {0} дней."}
             }
         },
         {
@@ -4579,7 +4579,7 @@ namespace MeshCentralRouter
                 {"da","Lokal Port"},
                 {"ko","로컬 포트"},
                 {"it","Porta locale"},
-                {"ru","Местный порт"}
+                {"ru","Локальный порт"}
             }
         },
         {
